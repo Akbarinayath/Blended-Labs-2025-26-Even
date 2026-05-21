@@ -72,6 +72,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** D.BALA SUBRAMANYAM and 212224040062
+**Name:akbar I and 212224230014
 **Course:** Introduction to Cloud Computing  
 
